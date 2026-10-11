@@ -5,26 +5,31 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 0 | 0 | 0 | 0 |
+| 1 | 1 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 0 days | 0 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| - | 0 |
+| 2026-10-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| - | 0 | 0% |
+| Array | 1 | 100% |
+| Sorting | 1 | 100% |
+| Two Pointers | 1 | 100% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](Topics/array/) | 1 |
+| [Sorting](Topics/sorting/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
