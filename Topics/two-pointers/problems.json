@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T12:45:39.051Z",
+  "updatedAt": "2026-10-13T13:34:11.906Z",
   "problems": [
     {
       "frontendId": "26",
@@ -84,6 +84,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "5a1c121b1827ff7aaee3f9042fcfe7e7a93bedaa",
           "lastSyncedAt": "2026-10-11T15:26:24.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "0189-rotate-array/0189-rotate-array.java",
+          "sha": "83ded0d01f629a8b580cf4af16b4e77e9fd87316",
+          "lastSyncedAt": "2026-10-13T13:34:11.906Z"
         }
       ]
     }
