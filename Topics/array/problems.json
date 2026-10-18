@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T09:21:15.465Z",
+  "updatedAt": "2026-10-18T09:22:51.144Z",
   "problems": [
     {
       "frontendId": "26",
@@ -183,7 +183,7 @@
           "filename": "0189-rotate-array.java",
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "83ded0d01f629a8b580cf4af16b4e77e9fd87316",
-          "lastSyncedAt": "2026-10-18T09:21:15.465Z"
+          "lastSyncedAt": "2026-10-18T09:22:51.144Z"
         }
       ]
     },
