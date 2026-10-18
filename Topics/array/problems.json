@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T09:22:51.144Z",
+  "updatedAt": "2026-10-18T09:52:22.941Z",
   "problems": [
     {
       "frontendId": "26",
@@ -184,6 +184,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "83ded0d01f629a8b580cf4af16b4e77e9fd87316",
           "lastSyncedAt": "2026-10-18T09:22:51.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "113101a1b4f6839601f7b485113b0c62dbaf0be6",
+          "lastSyncedAt": "2026-10-18T09:52:22.941Z"
         }
       ]
     },
