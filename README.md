@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 12 | 8 | 4 | 0 |
+| 13 | 9 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 5 |
+| 1 days | 3 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,18 +20,19 @@ Contains topicwise list of solved problems.
 | 2026-10-13 | 3 |
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 100% |
-| Two Pointers | 7 | 58% |
-| Sorting | 4 | 33% |
-| Dynamic Programming | 3 | 25% |
-| Greedy | 2 | 17% |
-| Hash Table | 2 | 17% |
-| Math | 2 | 17% |
+| Array | 13 | 100% |
+| Two Pointers | 7 | 54% |
+| Sorting | 4 | 31% |
+| Dynamic Programming | 3 | 23% |
+| Greedy | 2 | 15% |
+| Hash Table | 2 | 15% |
+| Math | 2 | 15% |
 | Binary Search | 1 | 8% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 8% |
 | Counting | 1 | 8% |
@@ -40,7 +41,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Counting](Topics/counting/) | 1 |
