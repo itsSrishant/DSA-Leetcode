@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 10 | 8 | 0 |
+| 19 | 10 | 9 | 0 |
 
 ## Activity
 
@@ -21,35 +21,35 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
 | 2026-10-18 | 4 |
-| 2026-10-19 | 2 |
+| 2026-10-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 100% |
-| Two Pointers | 9 | 50% |
-| Sorting | 6 | 33% |
-| Hash Table | 4 | 22% |
-| Math | 4 | 22% |
-| Dynamic Programming | 3 | 17% |
+| Array | 19 | 100% |
+| Two Pointers | 9 | 47% |
+| Sorting | 6 | 32% |
+| Dynamic Programming | 4 | 21% |
+| Hash Table | 4 | 21% |
+| Math | 4 | 21% |
 | Binary Search | 2 | 11% |
+| Divide and Conquer | 2 | 11% |
 | Greedy | 2 | 11% |
 | Matrix | 2 | 11% |
-| Bit Manipulation | 1 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Math](Topics/math/) | 4 |
