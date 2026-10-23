@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T16:30:27.269Z",
+  "updatedAt": "2026-10-23T16:51:17.414Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "bb931d2b908aff73e0962b29b885f879a796e330",
+          "lastSyncedAt": "2026-10-23T16:51:17.414Z"
+        }
+      ]
+    },
     {
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
