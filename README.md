@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 11 | 11 | 0 |
+| 23 | 12 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 10 |
+| 3 days | 3 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,19 +25,20 @@ Contains topicwise list of solved problems.
 | 2026-10-20 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
+| 2026-10-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 100% |
-| Two Pointers | 9 | 41% |
-| Dynamic Programming | 6 | 27% |
-| Sorting | 6 | 27% |
-| Hash Table | 5 | 23% |
-| Math | 4 | 18% |
-| Greedy | 3 | 14% |
-| Binary Search | 2 | 9% |
+| Array | 23 | 100% |
+| Two Pointers | 9 | 39% |
+| Dynamic Programming | 6 | 26% |
+| Sorting | 6 | 26% |
+| Hash Table | 5 | 22% |
+| Math | 4 | 17% |
+| Binary Search | 3 | 13% |
+| Greedy | 3 | 13% |
 | Divide and Conquer | 2 | 9% |
 | Matrix | 2 | 9% |
 
@@ -45,8 +46,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Array](Topics/array/) | 23 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
