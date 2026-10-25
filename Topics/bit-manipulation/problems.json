@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-18T09:52:22.941Z",
+  "updatedAt": "2026-10-25T03:45:03.003Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0136-single-number.java",
+          "path": "0136-single-number/0136-single-number.java",
+          "sha": "19d15cc53df5cc7b6966a3ffeba1efd8cd14d898",
+          "lastSyncedAt": "2026-10-25T03:45:03.003Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
