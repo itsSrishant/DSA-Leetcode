@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 15 | 11 | 0 |
+| 27 | 16 | 11 | 0 |
 
 ## Activity
 
@@ -27,29 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 2 |
-| 2026-10-26 | 1 |
+| 2026-10-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 100% |
-| Two Pointers | 9 | 35% |
-| Dynamic Programming | 7 | 27% |
-| Sorting | 7 | 27% |
+| Array | 27 | 100% |
+| Two Pointers | 9 | 33% |
+| Dynamic Programming | 7 | 26% |
+| Sorting | 7 | 26% |
 | Hash Table | 5 | 19% |
+| Binary Search | 4 | 15% |
 | Math | 4 | 15% |
-| Binary Search | 3 | 12% |
-| Greedy | 3 | 12% |
-| Bit Manipulation | 2 | 8% |
-| Divide and Conquer | 2 | 8% |
+| Greedy | 3 | 11% |
+| Bit Manipulation | 2 | 7% |
+| Divide and Conquer | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Array](Topics/array/) | 28 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
