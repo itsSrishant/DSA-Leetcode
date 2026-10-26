@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T14:39:38.962Z",
+  "updatedAt": "2026-10-26T13:22:23.658Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "113101a1b4f6839601f7b485113b0c62dbaf0be6",
           "lastSyncedAt": "2026-10-18T09:52:22.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "0704-binary-search/0704-binary-search.java",
+          "sha": "f01fdb64f2c06fc92080d2666934d6860e9297ff",
+          "lastSyncedAt": "2026-10-26T13:22:23.658Z"
         }
       ]
     },
