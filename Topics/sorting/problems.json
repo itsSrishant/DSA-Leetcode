@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-27T13:16:20.880Z",
+  "updatedAt": "2026-10-29T13:48:23.719Z",
   "problems": [
     {
       "frontendId": "75",
@@ -123,7 +123,7 @@
           "filename": "0977-squares-of-a-sorted-array.java",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
           "sha": "c37f426240c2a0c208aa061121db05cbba95a9b7",
-          "lastSyncedAt": "2026-10-16T12:46:54.400Z"
+          "lastSyncedAt": "2026-10-29T13:48:23.719Z"
         }
       ]
     },
