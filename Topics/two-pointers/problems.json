@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-28T14:38:59.901Z",
+  "updatedAt": "2026-10-29T13:48:23.719Z",
   "problems": [
     {
       "frontendId": "26",
@@ -183,7 +183,7 @@
           "filename": "0977-squares-of-a-sorted-array.java",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
           "sha": "c37f426240c2a0c208aa061121db05cbba95a9b7",
-          "lastSyncedAt": "2026-10-16T12:46:54.400Z"
+          "lastSyncedAt": "2026-10-29T13:48:23.719Z"
         }
       ]
     },
