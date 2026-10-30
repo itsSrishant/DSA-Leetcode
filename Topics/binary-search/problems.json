@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-28T14:38:59.901Z",
+  "updatedAt": "2026-10-30T04:57:57.969Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "113101a1b4f6839601f7b485113b0c62dbaf0be6",
           "lastSyncedAt": "2026-10-18T09:52:22.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0349-intersection-of-two-arrays.java",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.java",
+          "sha": "da102dd01dc50f37354e6cc83688fe362decb1d4",
+          "lastSyncedAt": "2026-10-30T04:57:57.969Z"
         }
       ]
     },
