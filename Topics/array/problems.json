@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-30T03:50:20.244Z",
+  "updatedAt": "2026-10-30T04:57:57.969Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "fa62e699ba4bf027210a11775846bcab1e007d4f",
           "lastSyncedAt": "2026-10-28T14:01:24.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0349-intersection-of-two-arrays.java",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.java",
+          "sha": "da102dd01dc50f37354e6cc83688fe362decb1d4",
+          "lastSyncedAt": "2026-10-30T04:57:57.969Z"
         }
       ]
     },
