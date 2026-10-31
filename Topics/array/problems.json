@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:41:57.971Z",
+  "updatedAt": "2026-10-31T14:06:00.762Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
           "sha": "1e78ecf9699fe5860b85b6c8b2d7c7d31b29cfa0",
           "lastSyncedAt": "2026-10-25T04:14:53.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "5a013f30e2a396a91ecc8c2512b1643543c5efae",
+          "lastSyncedAt": "2026-10-31T14:06:00.762Z"
         }
       ]
     },
