@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-02T14:11:38.510Z",
+  "updatedAt": "2026-11-02T14:21:30.828Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "9e687e8490d951d616276d1c122355464f8add6a",
           "lastSyncedAt": "2026-10-16T12:42:15.464Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1343",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "problemName": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "folderPath": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "readmePath": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
+          "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
+          "sha": "f39c63447eed1861ce30bc11c9ba32c761fefc1c",
+          "lastSyncedAt": "2026-11-02T14:21:30.828Z"
         }
       ]
     },
