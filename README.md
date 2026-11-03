@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 20 | 16 | 0 |
+| 37 | 20 | 17 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 20 |
+| 13 days | 13 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-19 | 3 |
 | 2026-10-20 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 2 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 100% |
-| Two Pointers | 15 | 42% |
-| Sorting | 12 | 33% |
+| Array | 36 | 97% |
+| Two Pointers | 15 | 41% |
+| Sorting | 12 | 32% |
 | Binary Search | 8 | 22% |
 | Hash Table | 8 | 22% |
 | Dynamic Programming | 7 | 19% |
-| Greedy | 6 | 17% |
+| Greedy | 6 | 16% |
 | Math | 4 | 11% |
-| Bit Manipulation | 2 | 6% |
-| Divide and Conquer | 2 | 6% |
+| Sliding Window | 3 | 8% |
+| Bit Manipulation | 2 | 5% |
 
 ## Topics
 
@@ -63,8 +63,9 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 2 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 12 |
+| [String](Topics/string/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 16 |
 <!---LeetHub Summary End-->
